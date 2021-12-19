@@ -1,6 +1,9 @@
 # GuildXPList
 Shows and formatts weekly gexp for a hypixel guild in a nice clean format.
 
+# Archive Notice
+A better more user friendly tool has been made. Please see it [here](https://github.com/miqhtiedev/hypixel-gexp-website)
+
 # Installation & Usage
 
 1. Install [node.js](https://nodejs.org)
